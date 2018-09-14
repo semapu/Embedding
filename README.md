@@ -1,2 +1,2 @@
 # Embedding
-Embedding from gogole. Simple test of how it works
+Embedding from google. Simple test of how it works
